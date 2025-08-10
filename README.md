@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/Steven/">Steven Tucker</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I am deeply passionate about cybersecurity and thrive on addressing complex challenges through hands-on projects. My work spans areas such as vulnerability management and threat detection, enabling me to explore the dynamic and rapidly evolving cybersecurity landscape. I invite you to review my projects to see how I have applied my skills to strengthen security operations and enhance organizational processes.
 
 
 ## ⚠️ Vulnerability Management Projects
