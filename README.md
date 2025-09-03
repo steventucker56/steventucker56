@@ -5,7 +5,8 @@ I am deeply passionate about cybersecurity and thrive on addressing complex chal
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/steventucker56/ST-vulnerability-management-program/tree/main)**
+- **[Vulnerability Management Program Implementation](https://github.com/steventucker56/ST-vulnerability-management-program)**
+- - **[Programmatic-Vulnerability-Remediations](https://github.com/steventucker56/programmatic-vulnerability-remediations)**
 
 
 ## 🚨 Threat Hunting and Security Operations
