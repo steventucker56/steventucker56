@@ -24,7 +24,7 @@ I am deeply passionate about cybersecurity and thrive on addressing complex chal
 
 [twitter]: https://twitter.com/___________
 [youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
+[instagram]: https://www.instagram.com/steven_eiyuden_tucker
 [linkedin]: https://linkedin.com/in/steven-tucker-2bb534347
 
 
